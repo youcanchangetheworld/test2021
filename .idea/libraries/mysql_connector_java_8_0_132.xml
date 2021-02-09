@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.132">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../文杰2020大三上/数据库/课程设计-学生查寝系统/20182224杨文杰--学生查寝系统/dorm/web/WEB-INF/lib/mysql-connector-java-8.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
